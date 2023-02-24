@@ -1,0 +1,6 @@
+transformers==4.9.2
+pytorch-lightning==1.4.7
+torchmetrics==0.5
+pyrouge
+wandb
+h5py
